@@ -1,6 +1,6 @@
 # Recordlight-HUI-DINUSB
 FastLED based Record Light for Apple's Logic Pro, using the Mackie HUI protocol. Runs on an Arduino Leonardo with the Arduino MIDI, USB_MIDI and FastLED libraries. 
-Lights used are 12 LEDs on a WS2812 based LED strip. Additional single LED as connector inidcator also supported.
+Lights used are 12 LEDs on a WS2812 based LED strip.
 
 ## Light inidicators:
 
@@ -16,4 +16,4 @@ Play:
 Record:
 - red
 
-Build for USB _or_ DIN-MIDI. refer to source code...
+Build for USB _or_ DIN-MIDI. Refer to source code...
