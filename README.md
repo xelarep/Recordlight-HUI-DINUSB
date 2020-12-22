@@ -4,10 +4,10 @@ Lights used are 12 LEDs on a WS2812 based LED strip. Additional single LED as co
 
 ## Light inidicators:
 
-Idle/not connected to Logic HUI:
+Idle/not connected to Logic / Mackie HUI:
 - rainbow effect 
 
-Stop Mode in Logic (once the first Ping from Mackie HUI/Logic is received):
+Stop Mode in Logic (once the first 'Ping' from Logic is received):
 - dark blue
 
 Play:
